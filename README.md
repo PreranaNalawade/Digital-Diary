@@ -75,6 +75,10 @@ mvn exec:java -Dexec.mainClass="diary.App"
 
 ```
 ---
+## 📸 Sample Output
+<img width="631" height="247" alt="image" src="https://github.com/user-attachments/assets/8e669c3e-7bec-48a4-a350-7fc7bd24d549" />
+
+---
 ## 👩‍💻 Contact
 **Name:** Prerana Anand Nalawade  
 **Email:** prerananalawade5@gmail.com  
